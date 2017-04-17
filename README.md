@@ -10,3 +10,6 @@ then it should be 1 during the same time interval and oscillates in the same way
 After we create the keys, now it is time to write songs.
 
 Note: the output signal pin is K17. You should plug in your mini speaker's wires to K17 pin and ground on BASYS3 board.
+
+Here is the demo video. watch and enjoy :D
+https://www.youtube.com/watch?v=jtOrFZe8aa0
