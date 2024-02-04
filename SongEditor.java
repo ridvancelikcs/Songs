@@ -84,28 +84,6 @@ public class SongEditor{
     }
     
 }
-
-
-//        switch (secim) {
-//        case 1 :
-//            System.out.println("A sinifi dergilerin listesi");
-//            break;
-//
-//        case 2 :
-//            System.out.println("B sinifi dergilerin listesi");
-//            break;
-//
-//        case 3 :
-//            System.out.println("C sinifi dergilerin listesi");
-//            break;
-//
-//        default :
-//            System.out.println("Hatali secim! 1, 2 ya da 3'e basiniz.");
-//            break;
-//        }
-
-
-
 //      case (note)
 //        // These values are wave lengths of notes with respect to time (10 nano sec)
 //        // value = 100,000,000 / (frequency of notes / 2)
